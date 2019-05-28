@@ -16,6 +16,8 @@ namespace github
             Console.WriteLine(c);
             Console.WriteLine("craeted succesfully");
             Console.WriteLine("hiii");
+            Console.WriteLine("hello");
+          
         }
     }
 }
