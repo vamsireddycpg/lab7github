@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace github
 {
-    class Program
+    class DevOps
     {
         static void Main(string[] args)
         {
+            int a = 10;
+            int b = 20;
+            int c = a + b;
+            Console.WriteLine(c);
+            Console.WriteLine("craeted succesfully");
         }
     }
 }
