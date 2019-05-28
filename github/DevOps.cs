@@ -15,7 +15,7 @@ namespace github
             int c = a + b;
             Console.WriteLine(c);
             Console.WriteLine("craeted succesfully");
-            //craeted
+            Console.WriteLine("hiii");
         }
     }
 }
